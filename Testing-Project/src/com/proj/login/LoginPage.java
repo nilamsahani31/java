@@ -10,6 +10,13 @@ public class LoginPage {
 		int b= 20;
 		
 		System.out.println(a+b);
+		
+        System.out.println("Multiplication Tew Number :");
+		
+		int c= 10;
+		int d= 20;
+		
+		System.out.println(a*b);
 	}
 	
 }
